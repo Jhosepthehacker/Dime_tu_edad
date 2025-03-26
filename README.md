@@ -7,7 +7,7 @@
 # ¿Cómo instalar?
 
 <pre>
-  git clone https://github.com/Jhosepthehacker/Dime_tu_edad
+  git clone https://github.com/Jhosepthehacker/Dime_tu_edad.git
   cd Dime_tu_edad
   python3 Edad.py
 </pre>
