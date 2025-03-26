@@ -6,8 +6,8 @@
 
 # ¿Cómo instalar?
 
-<pre>
+'''bash
   git clone https://github.com/Jhosepthehacker/Dime_tu_edad.git
   cd Dime_tu_edad
   python3 Edad.py
-</pre>
+'''bash
